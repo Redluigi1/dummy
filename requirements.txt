@@ -4,7 +4,6 @@ janus
 openai
 twilio
 python-dotenv
-pyaudio
 websockets
 anthropic
 nest-asyncio
