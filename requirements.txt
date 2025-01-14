@@ -1,0 +1,12 @@
+streamlit
+pymongo
+janus
+openai
+twilio
+python-dotenv
+pyaudio
+websockets
+anthropic
+nest-asyncio
+google-generativeai
+plotly
